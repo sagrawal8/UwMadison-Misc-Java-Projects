@@ -1,0 +1,37 @@
+Do you want to use a file for input? Type 1 for Yes and 2 for No: 2
+1) Type 1 for Calender
+2) Type 3 to Exit
+1
+Welcome to the Calender Printer.
+================================
+Enter first 3 letters in uppercase of month to print: 
+MAR
+Enter the year to print: 
+1998
+MON	TUE	WED	THU	FRI	SAT	SUN	
+.	.	.	.	.	.	1	
+2	3	4	5	6	7	8	
+9	10	11	12	13	14	15	
+16	17	18	19	20	21	22	
+23	24	25	26	27	28	29	
+30	31	.	.	.	.	.	
+================================
+Type 'e' or 'E' to exit and anything else to start again: f
+Do you want to use a file for input? Type 1 for Yes and 2 for No: 1
+Enter file name: lala.txt
+lala.txt
+1) Type 1 for Calender
+2) Type 2 to Exit
+Welcome to the Calender Printer.
+================================
+Enter first 3 letters in uppercase of month to print: 
+Enter the year to print: 
+MON	TUE	WED	THU	FRI	SAT	SUN	
+.	1	2	3	4	5	6	
+7	8	9	10	11	12	13	
+14	15	16	17	18	19	20	
+21	22	23	24	25	26	27	
+28	29	.	.	.	.	.	
+.	.	.	.	.	.	.	
+================================
+Type 'e' or 'E' to exit and anything else to start again: Thank you, have a nice day.
