@@ -57,10 +57,6 @@ public class TrianglePen {
         index+=3;      
       }
     }
-    
-    
-    
-      
   }
   private void handleMouseRelease(int mouseX, int mouseY) {
     currentPoint=null;
@@ -123,10 +119,8 @@ public class TrianglePen {
             {
               o.setColor((int)(KeyPressed-'0'));              
             }
-      }
-      
-    }
-    
+      }      
+    }    
   }
   private void draw() {
     if(showPoints==true)
@@ -155,9 +149,4 @@ public class TrianglePen {
      // draw everything in its current state
      draw();
   }
-  
-  
- 
-  
-  
 }
