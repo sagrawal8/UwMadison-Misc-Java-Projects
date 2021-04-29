@@ -1,1 +1,1 @@
-#### Encryption strategy of hiding bits on text inside an image.
+#### Encryption strategy of hiding text as bits inside an image.
